@@ -1,0 +1,10 @@
+# Vivid-Hosting US Geofeed,lastupdated (rfc3339): 2021-01-19T16:37:54-08:00
+# Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805
+199.188.88.0/24,US,US-CA,Los Angeles,
+199.188.89.0/24,US,US-CA,Los Angeles,
+199.188.90.0/24,US,US-CA,Los Angeles,
+199.188.91.0/24,US,US-CA,Los Angeles,
+199.188.92.0/24,US,US-CA,Los Angeles,
+199.188.93.0/24,US,US-CA,Los Angeles,
+199.188.94.0/24,US,US-CA,San Diego,
+199.188.95.0/24,US,US-CA,San Diego,
