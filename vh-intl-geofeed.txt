@@ -1,0 +1,4 @@
+# Vivid-Hosting INTL Geofeed,lastupdated (rfc3339): 2021-01-19T16:37:54-08:00
+# Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805
+192.154.198.0/24,BR,BR-SP,Sao Paulo,
+192.154.196.0/24,MX,,,
